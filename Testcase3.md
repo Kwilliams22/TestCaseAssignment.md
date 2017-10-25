@@ -13,21 +13,21 @@
 * Creation Date:
   * 10/25/2018
 * Modified By:
-  * Lars
+  * Abeeku
 * Modified Date:
-  * 10/29/2020
+  * 10/29/2018
 * Requirements Covered:
-  * Login with correct pasword
+  * menu comes up
 * Test Description/Purpose:
-  * make sure build mode login proceed
+  * make sure menu comes up when pause button is pressed
 * Pre-Test Conditions:
-  * start up game select build mode 
+  * start up game get into a game mode then press the pause button
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |select build mode and login in online| login success|√ |			
-| 2 |select build mode and login in online |login success|√ |			
-| 3 |select build mode and login in online |login success| |		
+| 1 |press pause button while in story or build mode| menu appears|√ |			
+| 2 |press pause button while in story or build mode |menu appears|√ |			
+| 3 |press pause button while in story or build mode |menu appears|√ |		
 	
 
 ## Overall Test Status:
@@ -37,6 +37,6 @@ login check for build mode worked more or less.
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | 10/26/2020| Larry|pass |			
-| 2 | 10/27/2020| Loid |pass |			
-| 3 | 10/28/2020| Lee| fail|		
+| 1 | 10/26/2018| Akinlana|pass |			
+| 2 | 10/27/2018| Akwtee|pass |			
+| 3 | 10/28/2018| Atu| pass|		
